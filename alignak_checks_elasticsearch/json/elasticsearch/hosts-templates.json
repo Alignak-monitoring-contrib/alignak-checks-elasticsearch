@@ -1,0 +1,22 @@
+[
+    {
+        "_is_template": true,
+        "alias": "Elasticsearch",
+        "name": "elasticsearch",
+        "tags": [
+            "Elasticsearch"
+        ]
+    },
+    {
+        "_is_template": true,
+        "alias": "Elasticsearch",
+        "customs": {
+            "_USERNAME": "admin",
+            "_PASSWORD": "admin"
+        },
+        "name": "elasticsearch-auth",
+        "tags": [
+            "Elasticsearch"
+        ]
+    }
+]
