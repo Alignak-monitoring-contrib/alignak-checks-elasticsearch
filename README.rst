@@ -19,7 +19,7 @@ Alignak checks package for Elasticsearch
 
 **Note:** *this check pack is only an example for checking elasticsearch using the Nagios check_tcp command. Please feel free to comment or suggest improvements :)*
 
-This package uses the `check_elasticsaerch` script from `this project <https://github.com/orthecreedence/check_elasticsearch>`_. A version of the script is included to make installation easier but you may refresh when installing...
+This package uses the `check_elasticsearch` script from `this project <https://github.com/orthecreedence/check_elasticsearch>`_. A version of the script is included to make installation easier but you may refresh when installing...
 
 
 Installation
