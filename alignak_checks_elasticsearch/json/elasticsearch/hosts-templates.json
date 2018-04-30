@@ -2,6 +2,9 @@
     {
         "_is_template": true,
         "alias": "Elasticsearch",
+        "customs": {
+            "_ES_PORT": 9200
+        },
         "name": "elasticsearch",
         "tags": [
             "Elasticsearch"
@@ -11,8 +14,8 @@
         "_is_template": true,
         "alias": "Elasticsearch",
         "customs": {
-            "_USERNAME": "admin",
-            "_PASSWORD": "admin"
+            "_ES_USERNAME": "admin",
+            "_ES_PASSWORD": "admin"
         },
         "name": "elasticsearch-auth",
         "tags": [
